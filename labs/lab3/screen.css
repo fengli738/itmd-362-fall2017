@@ -141,8 +141,8 @@ fieldset {
   color: red;
   font-style: italic;
   font-size: x-large;
+  margin:auto;
 }
-
 /**
  * 1. Correct the text wrapping in Edge and IE.
  * 2. Correct the color inheritance from `fieldset` elements in IE.
@@ -157,6 +157,7 @@ legend {
   max-width: 100%; /* 1 */
   padding: 0; /* 3 */
   white-space: normal; /* 1 */
+
 }
 
 /**
