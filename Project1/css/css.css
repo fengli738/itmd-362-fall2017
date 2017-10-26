@@ -30,6 +30,8 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	background-image: url("http://www.hdwallpapersfreedownload.com/uploads/large/games/league-of-legends-high-quality-wallpapers.jpg");
+	background-color: blue;
 }
 ol, ul {
 	list-style: none;
@@ -72,7 +74,7 @@ img{
 	left: 20%;
 	margin: 10px 0;
 	font-size: 1.3em;
-	color: #5F9EA0;
+	color: #2EFEF7;
 }
 .label1{
 	text-align: center;
@@ -108,8 +110,8 @@ img{
 @media screen and (min-width: 768px) {
 
   
- .buttone {
-    	background-color: blue;
+ .button {
+    background-color: blue;
     border: none;
     color: white;
     padding: 10px 25px;
